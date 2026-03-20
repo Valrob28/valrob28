@@ -2,56 +2,44 @@
 
 # VALROB28 ⚡
 
-**Builder • Finance × Web3 × Automation**
-
----
-
-## 👤 About
-
-Indie developer with roots in finance and IT, now building at the intersection of markets, automation, and Web3.  
-I design systems that are functional first—tools that solve real problems without the fluff.
-
-**My focus areas:**
-- 📊 Market infrastructure — data pipelines, analytics, trading mechanics
-- 🤖 Automation — bots, scripts, workflows that remove friction
-- ⛓️ Web3 systems — primarily Solana & Ethereum experiments
-- 🎮 Interactive experiences — games, voting mechanisms, on-chain logic
-
-Currently operating solo on a Mac Mini M4, shipping multiple projects in parallel.
-
----
+**Builder • Automation × Web3 × Infrastructure**
 
 ## 🎯 Current Focus
 
-**Active builds:**
-- Market analysis tools & data exploration systems
-- Automation frameworks & intelligent agents
-- Web3 experiments (Solana/Ethereum)
-- On-chain/off-chain mechanics (games, governance, interactions)
-- Web interfaces & landing pages
+**Trying Building right now:**
+- 🔗 Multi-platform marketplace synchronization engine
+- 🧠 AI agent orchestration system with persistent memory
+- 🎨 Next-gen developer tooling with multi-provider AI streaming
+- 🏘️ Real estate data aggregation & scoring systems
+- ⚡ Premium service marketplace with intelligent matching
 
-**Recent work:**
-- **Lystio** — Multi-platform listing sync (Vinted, Leboncoin, Facebook Marketplace, eBay)
-- **Idéfix** — Mac-native AI orchestrator with persistent memory, local file access, OAuth integrations
-- **CatPuccino** — AI-powered vibecoding IDE with multi-provider streaming
-- **MaestroArtisan** — Premium artisan marketplace with TrustScore system
-- Real estate aggregation tools for France/Switzerland
 
 ---
 
 ## 🛠️ Stack
 
-**Core**  
-TypeScript • JavaScript • React • Next.js • Python • Supabase • Vercel
+**Development**  
+TypeScript • JavaScript • React • Next.js • Python • Node.js
+
+**Network & Infrastructure**  
+Cisco • Zyxel • Aruba • Mitel • BGP routing • VLAN design  
+QoS optimization • VoIP deployment • Network switching  
+IPv4/IPv6 • DNS management • Load balancing
+
+**Backend & Hosting**  
+Supabase • PostgreSQL • Vercel • VPS (self-hosted)  
+Reverse proxy • SSL/TLS • CDN integration • Uptime monitoring
 
 **Web3**  
-Solana • Ethereum • Smart Contracts • On-chain Data
+Solana • Ethereum • Smart Contracts • On-chain indexing
 
 **AI/Automation**  
-Claude • Mistral • Groq • Gemini • Cohere • Agent Orchestration • Playwright
+Claude • Mistral • Groq • Gemini • Cohere  
+Agent orchestration • Browser automation (Playwright) • Workflow engines
 
-**Tools**  
-Webflow • Git • GitHub Actions • MCP Integrations
+**DevOps**  
+Git • GitHub Actions • Docker • CI/CD pipelines  
+API orchestration • Webhook management • MCP integrations
 
 ---
 
@@ -60,7 +48,7 @@ Webflow • Git • GitHub Actions • MCP Integrations
 **Build → Ship → Iterate**
 
 Start small, validate fast  
-Production-ready code over perfect architecture  
+Production-ready code over proven infrastructure  
 Real understanding before scaling  
 MVP mindset with long-term vision
 
@@ -71,15 +59,14 @@ moving toward greater autonomy and orchestration capability.
 
 ## 💡 Interests
 
-Financial markets & probability mechanics • Autonomous systems & AI agents  
+Network architecture & performance • Autonomous systems & AI agents  
 Web3 infrastructure & tokenomics • Game theory & incentive design  
-Developer tooling & DX optimization
+Developer tooling & DX optimization • Financial markets & probability mechanics
 
 ---
 
 ## 📫 Connect
-
-🌐 [bytfinance.com](https://bytfinance.com) • 💻 [github.com/valrob28](https://github.com/valrob28)
+• 💻 [github.com/valrob28](https://github.com/valrob28)
 
 ---
 
