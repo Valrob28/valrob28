@@ -1,78 +1,88 @@
 <div align="center">
 
-# VALROB28 ⚙️
+# VALROB28 ⚡
 
-**QUANT • FINANCE ENGINEER • WEB3 BUILDER**
-
-
-</div>
+**Builder • Finance × Web3 × Automation**
 
 ---
 
-## 🧠 FINANCE / QUANT
+## 👤 About
 
-> Quant-oriented builder focused on **markets, probabilities and automated financial systems**.
-> Work centered around execution logic, prediction markets and market infrastructure.
+Indie developer with roots in finance and IT, now building at the intersection of markets, automation, and Web3.  
+I design systems that are functional first—tools that solve real problems without the fluff.
 
-### 🔍 Core Areas
+**My focus areas:**
+- 📊 Market infrastructure — data pipelines, analytics, trading mechanics
+- 🤖 Automation — bots, scripts, workflows that remove friction
+- ⛓️ Web3 systems — primarily Solana & Ethereum experiments
+- 🎮 Interactive experiences — games, voting mechanisms, on-chain logic
 
-* 📊 **Prediction markets & probabilistic modeling**
-* 🤖 **Trading bots & automated execution systems**
-* 📈 **Market data ingestion, signals & monitoring**
-* ⚙️ **Financial tooling & strategy infrastructure**
-
-### 🛠️ Stack
-
-* 🐍 **Python** · 🟦 **TypeScript** · ⚙️ **Go**
-* 🎯 Automation, execution logic, market structure
-* 🧮 Risk-first · Data-driven · Performance-oriented
+Currently operating solo on a Mac Mini M4, shipping multiple projects in parallel.
 
 ---
 
-## ⛓️ WEB3 BUILDER — SOLANA / ETHEREUM
+## 🎯 Current Focus
 
-> Web3-native builder shipping **production-grade applications** across Solana and Ethereum.
-> Hands-on systems, end-to-end — no demo-driven development.
+**Active builds:**
+- Market analysis tools & data exploration systems
+- Automation frameworks & intelligent agents
+- Web3 experiments (Solana/Ethereum)
+- On-chain/off-chain mechanics (games, governance, interactions)
+- Web interfaces & landing pages
 
-### 🚀 What I Build
-
-* ⛓️ **On-chain prediction & market platforms**
-* 🎲 **On-chain games & probabilistic systems**
-* 🤖 **Bots interacting directly with smart contracts**
-* 🧩 **DeFi-adjacent tools, automation & infrastructure**
-* 🌐 **Full-stack Web3 applications**
-
-### 🔗 Chains & Stack
-
-* ⛓️ **Chains**: Solana, Ethereum
-* 📜 **Smart contracts**: Solana programs, EVM contracts
-* 🐍🟦 **Languages**: TypeScript, Python, Go
-* 🖥️ **Interfaces**: Web frontends for market systems
+**Recent work:**
+- **Lystio** — Multi-platform listing sync (Vinted, Leboncoin, Facebook Marketplace, eBay)
+- **Idéfix** — Mac-native AI orchestrator with persistent memory, local file access, OAuth integrations
+- **CatPuccino** — AI-powered vibecoding IDE with multi-provider streaming
+- **MaestroArtisan** — Premium artisan marketplace with TrustScore system
+- Real estate aggregation tools for France/Switzerland
 
 ---
 
-## 🛠️ BUILD THEMES (2024–2025)
+## 🛠️ Stack
 
-* 📊 Prediction market platforms (on-chain & off-chain)
-* 🤖 Market automation & sniper bots
-* 🎮 Web3-based games & probabilistic mechanics
-* 📈 Financial dashboards & tooling
-* 🔁 End-to-end systems: contracts → backend → UI
+**Core**  
+TypeScript • JavaScript • React • Next.js • Python • Supabase • Vercel
 
----
+**Web3**  
+Solana • Ethereum • Smart Contracts • On-chain Data
 
-## 🧠 BUILDER PHILOSOPHY
+**AI/Automation**  
+Claude • Mistral • Groq • Gemini • Cohere • Agent Orchestration • Playwright
 
-* 🚀 **Ship > theorize**
-* 🤖 **Automation over manual execution**
-* 📊 **Markets over narratives**
-* 🧱 **Infrastructure before UI**
+**Tools**  
+Webflow • Git • GitHub Actions • MCP Integrations
 
 ---
 
-<div align="center">
+## 🧠 Philosophy
 
-🌍 [https://bytfinance.com](https://bytfinance.com)
-🧑‍💻 [https://github.com/valrob28](https://github.com/valrob28)
+**Build → Ship → Iterate**
+
+Start small, validate fast  
+Production-ready code over perfect architecture  
+Real understanding before scaling  
+MVP mindset with long-term vision
+
+I believe in building layered systems that evolve—each project builds on lessons from the last,  
+moving toward greater autonomy and orchestration capability.
+
+---
+
+## 💡 Interests
+
+Financial markets & probability mechanics • Autonomous systems & AI agents  
+Web3 infrastructure & tokenomics • Game theory & incentive design  
+Developer tooling & DX optimization
+
+---
+
+## 📫 Connect
+
+🌐 [bytfinance.com](https://bytfinance.com) • 💻 [github.com/valrob28](https://github.com/valrob28)
+
+---
+
+**Status:** Building in public, learning in private.
 
 </div>
