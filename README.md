@@ -1,75 +1,47 @@
 <div align="center">
 
-# VALROB28 ⚡
+# VALROB | Développement · Automatisation · Réseaux
 
-**Builder • Automation × Web3 × Infrastructure**
+**Développeur indépendant & technicien réseau polyvalent**  
+📍 Eure-et-Loir (28), France · Missions à distance et interventions locales
 
-## 🎯 Current Focus
-
-**Trying Building right now:**
-- 🔗 Multi-platform marketplace synchronization engine
-- 🧠 AI agent orchestration system with persistent memory
-- 🎨 Next-gen developer tooling with multi-provider AI streaming
-- 🏘️ Real estate data aggregation & scoring systems
-- ⚡ Premium service marketplace with intelligent matching
-
-
----
-
-## 🛠️ Stack
-
-**Development**  
-TypeScript • JavaScript • React • Next.js • Python • Node.js
-
-**Network & Infrastructure**  
-Cisco • Zyxel • Aruba • Mitel • BGP routing • VLAN design  
-QoS optimization • VoIP deployment • Network switching  
-IPv4/IPv6 • DNS management • Load balancing
-
-**Backend & Hosting**  
-Supabase • PostgreSQL • Vercel • VPS (self-hosted)  
-Reverse proxy • SSL/TLS • CDN integration • Uptime monitoring
-
-**Web3**  
-Solana • Ethereum • Smart Contracts • On-chain indexing
-
-**AI/Automation**  
-Claude • Mistral • Groq • Gemini • Cohere  
-Agent orchestration • Browser automation (Playwright) • Workflow engines
-
-**DevOps**  
-Git • GitHub Actions • Docker • CI/CD pipelines  
-API orchestration • Webhook management • MCP integrations
-
----
-
-## 🧠 Philosophy
-
-**Build → Ship → Iterate**
-
-Start small, validate fast  
-Production-ready code over proven infrastructure  
-Real understanding before scaling  
-MVP mindset with long-term vision
-
-I believe in building layered systems that evolve—each project builds on lessons from the last,  
-moving toward greater autonomy and orchestration capability.
-
----
-
-## 💡 Interests
-
-Network architecture & performance • Autonomous systems & AI agents  
-Web3 infrastructure & tokenomics • Game theory & incentive design  
-Developer tooling & DX optimization • Financial markets & probability mechanics
-
----
-
-## 📫 Connect
-• 💻 [github.com/valrob28](https://github.com/valrob28)
-
----
-
-**Status:** Building in public, learning in private.
+**Disponible pour des missions freelance : applications web, automatisation, intégration IA et réseau LAN.**
 
 </div>
+
+## Ce que je peux apporter
+
+| Besoin | Interventions concrètes |
+| --- | --- |
+| **Applications web / outils métier** | Interfaces React/TypeScript, composants UX, intégrations API, bases PostgreSQL/Supabase, fonctions backend, tableaux de bord |
+| **Applications mobiles** | Adaptation web → iOS avec Capacitor, builds Xcode, tests TestFlight et intégration des achats via StoreKit |
+| **Automatisation et IA** | Scripts Python/Node.js, intégrations d'API, collecte et traitement de données, bots de suivi et alertes Discord/Telegram, expérimentation d'agents IA |
+| **Réseaux et support IT** | Configuration LAN Cisco/Aruba, réseaux IPv4 distincts en /24, routage, VLAN, QoS, diagnostic de connectivité et dépannage |
+| **Hébergement / exploitation** | Vercel, Cloudflare, Linux, Docker Compose, configuration d'environnements, gestion Git/GitHub et investigation des incidents |
+
+## Quelques cas d'usage réalisés
+
+- **Analyse de données immobilières :** application React/TypeScript connectée à Supabase/PostgreSQL, import d'annonces, intégrations d'API, analyse assistée par IA et restitution de résultats.
+- **Déclinaison iOS d'une application web :** adaptation via Capacitor, tests natifs avec Xcode/TestFlight, parcours d'abonnement et achats intégrés.
+- **Surveillance automatisée de disponibilités :** suivi de produits, collecte d'informations, tableau de bord local et alertes Discord/Telegram ; prise en compte des limitations d'accès des sites.
+- **Réseaux d'entreprise :** configuration et segmentation de LAN avec équipements Cisco/Aruba, plusieurs plans d'adressage IPv4, VLAN, routage et QoS.
+- **Environnements techniques :** déploiement et diagnostic de services web, fonctions serverless et bases de données ; exploration d'agents locaux (OpenClaw/Ollama) et de la virtualisation (Proxmox).
+
+## Environnements utilisés
+
+**Web & backend :** React · Next.js · TypeScript · JavaScript · Node.js · Python · Supabase · PostgreSQL · API REST  
+**Mobile :** Capacitor · iOS · Xcode · TestFlight · StoreKit  
+**Infra & réseau :** Cisco · Aruba · LAN/VLAN · IPv4 · Routage · QoS · Linux · Docker / Docker Compose · Vercel · Cloudflare · GitHub  
+**Outils IA :** développement assisté par IA · automatisation · agents · Ollama · OpenClaw
+
+> Je distingue les technologies utilisées en projet des technologies explorées en laboratoire. Mon expérience réseau confirmée porte sur **Cisco et Aruba** ; je ne revendique pas d'expérience de production sur Huawei ou Palo Alto.
+
+## Collaboration
+
+Je peux intervenir sur un **correctif ciblé**, un **outil métier**, une **automatisation**, un **prototype web/mobile**, une **mise en production** ou un **renfort technique LAN/IT**.
+
+📫 [Me contacter via GitHub](https://github.com/Valrob28) · [Exemple de dépôt : application immobilière](https://github.com/Valrob28/autekia)
+
+---
+
+<sub>VALROB · Build, test, document, deliver.</sub>
