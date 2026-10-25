@@ -34,13 +34,13 @@
 **Infra & réseau :** Cisco · Aruba · LAN/VLAN · IPv4 · Routage · QoS · Linux · Docker / Docker Compose · Vercel · Cloudflare · GitHub  
 **Outils IA :** développement assisté par IA · automatisation · agents · Ollama · OpenClaw
 
-> Je distingue les technologies utilisées en projet des technologies explorées en laboratoire. Mon expérience réseau confirmée porte sur **Cisco et Aruba** ; je ne revendique pas d'expérience de production sur Huawei ou Palo Alto.
+> Les technologies présentées sont issues de projets réalisés ou d'expérimentations identifiées. **Proxmox** et certains outils d'agents IA sont explorés en environnement de test.
 
 ## Collaboration
 
 Je peux intervenir sur un **correctif ciblé**, un **outil métier**, une **automatisation**, un **prototype web/mobile**, une **mise en production** ou un **renfort technique LAN/IT**.
 
-📫 [Me contacter via GitHub](https://github.com/Valrob28) · [Exemple de dépôt : application immobilière](https://github.com/Valrob28/autekia)
+🔗 [Profil GitHub](https://github.com/Valrob28) · [Exemple de dépôt : application immobilière](https://github.com/Valrob28/autekia)
 
 ---
 
